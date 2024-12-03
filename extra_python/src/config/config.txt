@@ -1,0 +1,8 @@
+[JAVA]
+classpath=
+jython_path=
+
+[TOKENIZATION]
+split_identifiers=false
+split_strings=true
+exclude_list=["@"]

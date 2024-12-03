@@ -1,0 +1,12 @@
+{"repository_dir": "",
+ "target_repos": "",
+ "dataset_loc": "",
+ "parsed": false,
+ "label": null,
+ "size_bounds": [5,150,5,150],
+ "test_size": 0.1,
+ "random_seed": 133,
+ "multipunct_threshold": 5,
+ "_filter": ".+#method \\d+$",
+ "non_duplicates": null}
+  

@@ -1,0 +1,10 @@
+.DS_Store
+*.project
+*.pydevproject
+*.classpath
+*.settings
+*.pyc
+*.jython_cache/
+__pycache__/
+*.class
+/bin
